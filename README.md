@@ -49,13 +49,9 @@ The S4S CLI Interface is essential for social media researchers, content creator
 
 Feel free to contribute, report issues, or suggest improvements to enhance the functionality and usability of the S4S CLI Interface.
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 📧 Contact
 
-For inquiries and support, please contact [your_email@example.com].
+For inquiries and support, please contact [rafael.goncalo.ribeiro@gmail.com]
 
 ## 🙏 Acknowledgments
 
