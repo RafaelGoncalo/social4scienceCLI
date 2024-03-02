@@ -1,8 +1,8 @@
-# Social4Science CLI Interface
+# Social4Science CLI 
 
-## 🚀 Welcome to the S4S CLI Interface!
+## 🚀 Welcome to the S4S CLI!
 
-The Social4Science CLI Interface is a robust tool designed for social media analysis, focusing on YouTube videos and academic articles. This Python script provides a user-friendly command-line interface to collect and analyze data, utilizing YouTube API for video-related tasks.
+The Social4Science CLI is a robust tool designed for social media analysis, focusing on YouTube videos and academic articles. This Python script provides a user-friendly command-line interface to collect and analyze data, utilizing YouTube API for video-related tasks.
 
 ## 📦 Project Structure
 
