@@ -52,5 +52,3 @@ Feel free to contribute, report issues, or suggest improvements to enhance the f
 ## 📧 Contact
 
 For inquiries and support, please contact [rafael.goncalo.ribeiro@gmail.com]
-
-Enjoy exploring the Social4Science CLI Interface! 🚀
